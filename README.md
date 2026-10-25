@@ -11,6 +11,9 @@ This monorepo houses all of the (public) custom widgets used by coduh
 
 All widgets hold their respective HTML/CSS/JS files, as well as a JSON export string
 
+> [!WARNING]
+> We use [Pogly Standalone](https://github.com/PoglyApp/pogly-standalone), a self-hosted version of Pogly that is not up-to-date with the cloud version. Some widgets may not import or function correctly on Pogly Cloud.
+
 Check out Pogly at [pogly.gg](https://pogly.gg)
 
 ---

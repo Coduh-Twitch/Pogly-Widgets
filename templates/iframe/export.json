@@ -1,0 +1,16 @@
+{
+  "widgetName": "Iframe Embed",
+  "widgetWidth": 500,
+  "widgetHeight": 500,
+  "headerTag": "",
+  "bodyTag": "<iframe src=\"{url}\" />",
+  "styleTag": "body {\n  margin: 0;\n  width: 100%;\n  min-height: 100%;\n  height: 100vh;\n}\n\niframe {\n  outline: none;\n  border: none;\n  width: 100%;\n  height: 100%;\n}",
+  "scriptTag": "",
+  "variables": [
+    {
+      "variableName": "url",
+      "variableType": 1,
+      "variableValue": "https://google.com"
+    }
+  ]
+}

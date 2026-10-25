@@ -2,6 +2,8 @@
 
 Displays the chosen URL in an iframe on your Pogly canvas.
 
+[Export String](export.json)
+
 ---
 
 #### Made by @duckyyylol
